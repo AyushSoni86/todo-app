@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Project Proposal",
+    "description": "Prepare and submit the project proposal by the end of the week.",
+    "email": "john.doe@example.com"
+  },
+  {
+    "id": 2,
+    "title": "Review Code Changes",
+    "description": "Review and provide feedback on the latest code changes in the development branch.",
+    "email": "john.doe@example.com"
+  },
+  {
+    "id": 3,
+    "title": "Prepare Presentation Slides",
+    "description": "Create slides for the upcoming team presentation.",
+    "email": "alice.smith@example.com"
+  },
+  {
+    "id": 4,
+    "title": "Schedule Meeting with Team",
+    "description": "Coordinate a team meeting to discuss project progress.",
+    "email": "alice.smith@example.com"
+  },
+  {
+    "id": 5,
+    "title": "Admin Task",
+    "description": "Perform administrative tasks for system maintenance.",
+    "email": "admin@example.com"
+  },
+  {
+    "id": 6,
+    "title": "Simple Task",
+    "description": "Complete a simple task assigned to the user.",
+    "email": "jane.doe@example.com"
+  },
+  {
+    "id": 7,
+    "title": "Managerial Duty",
+    "description": "Manage and oversee the team's daily activities.",
+    "email": "manager@example.com"
+  }
+]
